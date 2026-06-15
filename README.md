@@ -47,13 +47,13 @@ Os zumbis surgem constantemente e tentam alcançar o cérebro. Para impedir o av
 
 ## Gameplay 1
 
-![Gameplay 1](imagens/gameplay1.png)
+![Gameplay 1](imagens/game1.png)
 
 ---
 
 ## Gameplay 2
 
-![Gameplay 2](imagens/gameplay2.png)
+![Gameplay 2](imagens/game2.png)
 
 ---
 
@@ -127,7 +127,7 @@ private void TryDamageZombie(Collider other, float impactSpeed)
 
 ### Print da Funcionalidade
 
-![Dano em zumbi](imagens/dano-zumbi.png)
+![Dano em zumbi](imagens/atropelo.png)
 
 ---
 
@@ -170,7 +170,7 @@ private void OnCollisionEnter(Collision collision)
 
 ### Print da Funcionalidade
 
-![Dano no carro](imagens/dano-carro.png)
+![Dano no carro](imagens/batida.png)
 
 ---
 
