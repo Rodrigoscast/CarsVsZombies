@@ -33,7 +33,7 @@ Os zumbis surgem constantemente e tentam alcançar o cérebro. Para impedir o av
 
 **Vídeo no YouTube:**
 
-[LINK DO VÍDEO AQUI]
+![LINK DO VÍDEO](http://youtube.com/watch?v=8RFJeu32Kpo)
 
 ---
 
